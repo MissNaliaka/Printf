@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * prinnhex - print number in hex begining with zero
  * @arguments: input string
@@ -42,4 +42,3 @@ int prinnhex(va_list arguments, char *buf, unsigned int ibuf)
 	free(binary);
 	free(hexadecimal);
 	return (count + 2);
-    
