@@ -1,1 +1,1 @@
-Git project for Virginia Wabuke and Velma Akinyi
+project task for Virginia and Velma
