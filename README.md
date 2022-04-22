@@ -1,1 +1,1 @@
-project task for Virginia and Velma
+Velma and Virginia project
